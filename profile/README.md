@@ -1,4 +1,4 @@
-# <img src="https://github.com/NVJP-Tech/.github/blob/main/logo.png?raw=true" width="40" height="40" /> NVJP Tech — Software Engineering Studio
+# 🔬 NVJP Tech — Software Engineering Studio
 
 > **"Transforming logic into impact, one line of code at a time."**
 
@@ -23,13 +23,12 @@ Aqui estão alguns dos desafios que já transformamos em software de alta perfor
 **Contexto:** Economia Espacial e Soberania Alimentar.
 Uma API RESTful complexa integrada ao Oracle Database para gestão autônoma de estufas em Marte e no Sertão Brasileiro. Nosso destaque na Global Solution 2026/1.
 
-### 💳 [Project Name 2] — *Em Breve ou Nome da sua outra App*
-**Contexto:** [Ex: Fintech / HealthTech]
-[Breve descrição da tecnologia e do problema que resolveu, ex: Gestão de ativos financeiros com foco em segurança.]
+### 🍷 [Vinheria Agnello - Fase 2](https://github.com/NVJP-Tech/Fase2-AgnelloJSP)
+**Contexto:** Gerenciamento de Empresas
+O objetivo desta fase foi desenvolver uma aplicação web funcional utilizando JavaServer Pages (JSP) integrada a serviços em Cloud, replicando a experiência de atendimento especializado oferecida na loja física da Vinheria Agnello.
 
-### 🩺 [Project Name 3] — *Em Breve ou Nome da sua outra App*
-**Contexto:** [Ex: Logística / Smart Cities]
-[Breve descrição, ex: Otimização de rotas urbanas utilizando algoritmos de busca avançada.]
+### [Project] — *Em Breve coisas novas por aqui!!!*
+
 
 ---
 
@@ -37,10 +36,10 @@ Uma API RESTful complexa integrada ao Oracle Database para gestão autônoma de 
 
 Nossa Software House é formada por especialistas focados em diferentes camadas do ciclo de vida do software:
 
-- **[@AsyncJean](https://github.com/AsyncJean)** — *Backend & Cloud Architecture.* Especialista em Java, Spring Boot e persistência de dados escalável.
-- **[@ramalhobleinat](https://github.com/ramalhobleinat)** — *Security & DevOps.* O guardião da integridade do sistema e infraestrutura de rede.
-- **[@Wince](https://github.com/Wince)** — *Front-end & UX Engineering.* Transformando fluxos lógicos em experiências de usuário fluidas e impactantes.
-- **[@OrdeP](https://github.com/OrdeP)** — *Database Modeling & QA.* Especialista em estruturas de dados e garantia de excelência de software.
+- **[@Nicolly Bleinat](https://www.linkedin.com/in/nramalhobleinat/)** — *Security & DevOps.* A guardiã da integridade do sistema e infraestrutura de rede.
+- **[@Vinícius Wince](https://www.linkedin.com/in/viniciuswince/)** — *Front-end & UX Engineering.* Transformando fluxos lógicos em experiências de usuário fluidas e impactantes.
+- **[@Jean Matheus](www.linkedin.com/in/jeanmatheusmoliveira)** — *Backend & Cloud Architecture.* Java, Spring Boot e persistência de dados escalável.
+- **[@Pedro Juchimiuk](https://www.linkedin.com/in/pedro-gustavo-juchimiuk/)** — *Database Modeling & QA.* Estruturas de dados e garantia de excelência de software.
 
 ---
 
